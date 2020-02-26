@@ -1,7 +1,7 @@
 # web-applications-programming-and-support
 
 ## description
-web store in the future
+web load balancer
 
 ## technologies
 
