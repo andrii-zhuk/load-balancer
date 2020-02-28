@@ -1,10 +1,9 @@
-# web-applications-programming-and-support
+# Load-balancer
 
 ## description
-web load balancer
+Web load balancing server.
 
 ## technologies
-
 * Javascript
 * Node.js
 * HTML/CSS
